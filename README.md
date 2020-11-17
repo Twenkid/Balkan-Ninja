@@ -19,7 +19,8 @@
  "Оживяване" с детайли - спрайтове/анимации, хора влизащи в кадър.
 1. Заснемане на един или двама герои на "зелен екран", извличане на кадри. 
  1. Или за начало, при липса на условия, ръчно изрязване на кадри от обикновено видео или рисуване, намиране на спрайтове от готови игри:
-<a href="https://www.spriters-resource.com/snes/ultmortalkombat3/">Спрайтове от МК3 Ултимат за SNES</a> <a href="https://www.spriters-resource.com/snes/ultmortalkombat3/sheet/92665/">Cyrax</a>
+<a href="https://www.spriters-resource.com/snes/ultmortalkombat3/">Спрайтове на героите от МК3 Ултимат за SNES</a> ...  <a href="https://www.spriters-resource.com/snes/ultmortalkombat3/sheet/92665/">Спрайтове за Cyrax</a> <a href="https://www.spriters-resource.com/playstation/mkmsz/sheet/37161/"> Спрайтове за PlayStation</a>
+
 
 1. Разработка или внедряване на анимирана система/краен автомат (finite state machine) за герой и проба с анимация с модел, може и нарисуван, впоследствие сниман, с ограничен набор от движения: бойна стойка, приклякане, прав удар с юмрук, средно висок удар с крак и т.н. Извличане или използване на кадрите като маски при ударите.
 1. Пробни звуци на герой, опити.
