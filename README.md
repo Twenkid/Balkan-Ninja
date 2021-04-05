@@ -3,6 +3,8 @@
 * Plovdiv Kombat, Пловдивска нинджа / Пловдивска битка
 * Пловдивски бойци, Пловдивски бой, Пловдивска схватка, Plovdiv Kombat, Plovdiv Fighters and Lovers ... (работни заглавия)
 
+<img src="https://github.com/Twenkid/Plovdiv-Kombat/blob/main/geroi/bulgarian-ninja-1650.jpg">
+
 Първи прототип в развитие:
 Http://twenkid.com/video/ninja2.mp4
 Http://twenkid.com/video/ninja3.mp4
