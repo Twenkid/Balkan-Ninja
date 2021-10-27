@@ -5,6 +5,7 @@
 * Балканска нинджа?
 
 <img src="https://github.com/Twenkid/Plovdiv-Kombat/blob/main/geroi/bulgarian-ninja-1650.jpg">
+* Old address: https://github.com/Twenkid/Plovdiv-Kombat/blob/main/README.md
 
 Кратко обяснение в "скрийнкаст": https://youtu.be/NipnKTLq0pw
 
