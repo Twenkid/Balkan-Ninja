@@ -4,6 +4,8 @@
 * Пловдивски бойци, Пловдивски бой, Пловдивска схватка, Plovdiv Kombat, Plovdiv Fighters and Lovers ... (работни заглавия)
 * Балканска нинджа?
 
+## Идея и снимки: октомври-ноември 2020 г. и по-стари
+
 <img src="https://github.com/Twenkid/Plovdiv-Kombat/blob/main/geroi/bulgarian-ninja-1650.jpg">
 * Old address: https://github.com/Twenkid/Plovdiv-Kombat/blob/main/README.md
 
