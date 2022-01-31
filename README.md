@@ -20,8 +20,8 @@ Http://twenkid.com/video/ninja2.mp4
 Http://twenkid.com/video/ninja3.mp4
 
 * Проект за видео игра, вдъхновена от MK3 Ултимат, "Уличен боец", "Кадилаци и динозаври" и от въображението - 2D двубои с хумор, по-малко жестокост; с елементи и на други жанрове, преход между арените, вмъкнати сцени ("cut"-сцени) с героите, разнообразяване на гледната точка към битките с общи планове и др.
-* Предложени платформи и библиотеки за разработка: OpenCV (Python & C++), PyGame, [<a href="https://github.com/pyglet/pyglet">pyglet</a>, <a href="https://github.com/ubuntunux/PyEngine3D">PyEngine3D</a>?], SDL, Godot, Unity, <a href="https://pypi.org/project/PyOpenAL">PyOpenAl</a>, OpenAl (звук) ...? В зависимост от разработчиците, може и няколко варианта.
-* 27.10.2021: Или може би Rust, WGL, Bevy ...? + WebAssembly?
+* Предложени платформи и библиотеки за разработка: OpenCV (Python & C++), PyGame, [<a href="https://github.com/pyglet/pyglet">pyglet</a>, <a href="https://github.com/ubuntunux/PyEngine3D">PyEngine3D</a>?], SDL, Godot, Unity, <a href="https://pypi.org/project/PyOpenAL">PyOpenAl</a>, OpenAl (звук) ...? В зависимост от разработчиците, може и няколко варианта. Unreal Engine?
+* 27.10.2021: Или може би Rust, WGL, Bevy ...? + WebAssembly? (31.1.2022 - Или по-скоро не? (незрели технологии и малко разработчици?))
 * Поредица: Пловдив, София, Търново, Варна, Бургас, Планини и др. (И други балкански страни: Гърция, Сърбия, Турция; Скопие ... )
 * Възможни герои, които са налице с подходящи костюми и външен вид: <b>Нууб Сайбот, Смъртобот, Тоши и Ли, Контра, Червената шапчица и др.: виж <a href="#geroi">СНИМКИ</a> по-долу</b>
 * Гръцки, турски и пр. герои
