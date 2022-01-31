@@ -1,5 +1,7 @@
-# Balkan Ninja ? (по-широкообхватно)  
-## Bulgarian Ninja - Българска Нинджа: Mission: Plovdiv - Мисия Пловдив (първо заглавие)
+# Balkan Ninja
+(за да е по-широкообхватно)  
+## Bulgarian Ninja - Българска Нинджа: 
+### Mission: Plovdiv? - Мисия Пловдив? (първо заглавие)
 * Plovdiv Kombat, Пловдивска нинджа / Пловдивска битка
 * Пловдивски бойци, Пловдивски бой, Пловдивска схватка, Plovdiv Kombat, Plovdiv Fighters and Lovers ... (работни заглавия)
 * Балканска нинджа?
